@@ -78,13 +78,7 @@ Hosted on netlify https://myprimeclone.netlify.app/
 #### Familiar with Git ?
 
 ```
-> git clone https://github.com/bhagat-hrishi/amazon-prime-clone.git
-> cd client
-> npm install
-> npm start
-> cd server 
-> npm install
-> node index
+
 ```
 
 #### Not Familiar with Git ?
